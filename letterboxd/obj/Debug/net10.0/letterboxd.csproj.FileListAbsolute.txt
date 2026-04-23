@@ -1,0 +1,15 @@
+/Users/eli/Projects/letterboxd/letterboxd/bin/Debug/net10.0/letterboxd
+/Users/eli/Projects/letterboxd/letterboxd/bin/Debug/net10.0/letterboxd.deps.json
+/Users/eli/Projects/letterboxd/letterboxd/bin/Debug/net10.0/letterboxd.runtimeconfig.json
+/Users/eli/Projects/letterboxd/letterboxd/bin/Debug/net10.0/letterboxd.dll
+/Users/eli/Projects/letterboxd/letterboxd/bin/Debug/net10.0/letterboxd.pdb
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.AssemblyInfoInputs.cache
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.AssemblyInfo.cs
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.csproj.CoreCompileInputs.cache
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.sourcelink.json
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.dll
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/refint/letterboxd.dll
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.pdb
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/letterboxd.genruntimeconfig.cache
+/Users/eli/Projects/letterboxd/letterboxd/obj/Debug/net10.0/ref/letterboxd.dll
